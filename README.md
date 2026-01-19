@@ -1,1 +1,1 @@
-[photo] (../good cat.png)
+![Alt text](good_cat.png)
