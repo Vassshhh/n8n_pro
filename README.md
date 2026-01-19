@@ -1,0 +1,1 @@
+[photo] (../good cat.png)
